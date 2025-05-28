@@ -12,6 +12,7 @@ let respecConfig = {
   specStatus: "vv",
   publishDate: "2025-06-01",
   publishVersion: "1.2.0",
+  labelColor: "#000000",
 
   // Zie de globale property 'localizationStrings/nl' voor de lijst met toegestane maturities
   //previousMaturity: "IO",
